@@ -1,0 +1,23 @@
+{
+  "name": "learningcreatejs",
+  "version": "0.0.1",
+  "description": "This is a sandbox for an ongoing project to learn how to build createjs apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulanism/learningcreatejs.git"
+  },
+  "author": "DW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulanism/learningcreatejs/issues"
+  },
+  "homepage": "https://github.com/dulanism/learningcreatejs#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
